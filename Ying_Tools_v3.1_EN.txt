@@ -1,0 +1,41 @@
+╔══════════════════════════════════════════════════════════════╗
+║               Ying Tools v3.1  -  English Introduction       ║
+╚══════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━ Welcome ━━━━━━━━━━━━━━━━━━
+Welcome to Ying Tools! This is a partition management tool tailored for Android devices,
+hoping to become a helpful assistant in maintaining your device.
+
+━━━━━━━━━━━━━━━━━━ Script Overview ━━━━━━━━━━━━━━━━━━
+Ying Tools v3.1 is a full-featured partition management script for Android devices,
+running in Termux terminal with root privileges. Main features include:
+  • Flash partitions (with A/B slot selection)
+  • Backup single partition (with A/B slot selection)
+  • Full firmware backup (automatically excludes data partitions,
+    pre-checks space, generates backup info file)
+
+━━━━━━━━━━━━━━━━━━ Development Info ━━━━━━━━━━━━━━━━━━
+Development Time: 2026-02-20 23:23
+Current Version: v3.1
+
+━━━━━━━━━━━━━━━━━━ Author Info ━━━━━━━━━━━━━━━━━━
+★ Name: Ying Gong Xiang Zhi (Ying)
+★ Country: China
+★ Age: 17 (high school student)
+★ Hobby: Anime & ACG
+★ Belief: Everything comes from passion
+★ A special girl in my heart: named Wang Menghan
+★ Favorite quote:
+  “I will carry roses and fervor, looking forward to our next rendezvous.”
+★ Special Thanks: This script is co-created by **DeepSeek** and **Ying**.
+
+━━━━━━━━━━━━━━━━━━ Usage Tips ━━━━━━━━━━━━━━━━━━
+• Always back up your important data and ensure sufficient battery
+  before proceeding.
+• Full firmware backup skips data partitions by default (userdata,
+  sdcard, etc.), but you can customize the exclude list.
+• For any issues, feel free to provide feedback, but please
+  understand that this script is a personal project driven by passion.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Thank you for using Ying Tools ❤️
